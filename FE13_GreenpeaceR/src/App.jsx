@@ -1,12 +1,13 @@
 
 import './App.css'
+import ListEvent from './components/ListEvent'
 
 function App() {
 
 
   return (
     <div className="App">
-      <h1>Hello World</h1>
+      <ListEvent/>
     </div>
   )
 }
